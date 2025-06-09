@@ -1,4 +1,9 @@
 # GarageMate-DST-G1V1
+
+Mount the GarageMate-DST to the Wall of your Garage and use the Indication Lights to Guide you as close as you like towards the Wall.
+The Distance for the Red and Yellow LEDs are adjustable!
+![alt text](https://github.com/chikovanreuden/GarageMate-DST-G1V1/blob/main/IMG_0829.JPEG?raw=true)
+
 ## BOM (Bill of Material)
 - 1x Arduino Nano
 - 2x Potentiometer (K Value irrelevant)
