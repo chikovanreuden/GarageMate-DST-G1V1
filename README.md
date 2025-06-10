@@ -2,6 +2,8 @@
 
 Mount the GarageMate-DST to the Wall of your Garage and use the Indication Lights to Guide you as close as you like towards the Wall.
 The Distance for the Red and Yellow LEDs are adjustable!
+
+A 3mf File can be found here (includes the STL Files): https://github.com/chikovanreuden/GarageMate-DST-G1V1/blob/main/README.md
 ![alt text](https://github.com/chikovanreuden/GarageMate-DST-G1V1/blob/main/IMG_0829.JPEG?raw=true)
 
 ## BOM (Bill of Material)
